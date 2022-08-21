@@ -1,3 +1,5 @@
 # Hannah Dougherty
 
 <a href="pdfs/The Legacy of Nomadism in the Achaemenid Persian Court.pdf" target="_blank">The Legacy of Nomadism in the Achaemenid Persian Court</a>
+
+<ul>Studies of the Persian Empire have to grapple with the state of surviving evidence, which is somewhat lacking in the areas of the empire itself. Much of what is referenced comes from Greek sources, which are biased and tend to look down on Persia. A long-standing claim is that the Persian Court was nomadic because it changed location with the seasons. Further analysis, however, reveals that the court was more likely itinerant, in that it did move often, but not necessarily with the seasons. Other reasons included military needs and asserting control over the vast lands and number of peoples. The court had both permanent residences and tent encampments, showing the bridge between ancestral nomadism and what eventually became settled living. The Achaemenid Persian Court was itinerant, more likely moving strategically than with the seasons.</ul>
