@@ -1,4 +1,4 @@
-# Hannah Dougherty
+# Hannah Katherine Dougherty
 
 <a href="pdfs/The Legacy of Nomadism in the Achaemenid Persian Court.pdf" target="_blank">The Legacy of Nomadism in the Achaemenid Persian Court</a>
 
