@@ -16,7 +16,8 @@ Studies of the Persian Empire have to grapple with the state of surviving eviden
 
 
 <a href="pdfs/Dissertation-The Garden Wings-Dougherty.pdf" target="_blank">Dissertation: Creative and Analytical Pieces</a>
-This is my undergraduate dissertation, composed of the opening to a novel and a companion essay about my process and purpose.
+
+My undergraduate dissertation, composed of the opening to a novel and a companion essay about my process and purpose
 
 
 <a href="pdfs/Reshaping the Arthurian Legend for Modern Audiences-Dougherty.pdf" target="_blank">Reshaping the Arthurian Legend for Modern Audiences: _Avalon High_ and _Cursed_</a>
