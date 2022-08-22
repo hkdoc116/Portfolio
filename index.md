@@ -22,3 +22,8 @@ This is my undergraduate dissertation, composed of the opening to a novel and a 
 <a href="pdfs/Reshaping the Arthurian Legend for Modern Audiences-Dougherty.pdf" target="_blank">Reshaping the Arthurian Legend for Modern Audiences: _Avalon High_ and _Cursed_</a>
 
 Arthurian stories have been reshaped and retold for centuries. This essay focuses on Disney's film version of _Avalon High_ and Netflix's _Cursed_. In particular, these works portray young women finding themselves with the help of fantasy and other people.
+
+
+<a href="pdfs/Next, Please.pdf" target="_blank">Next, Please</a>
+
+A dystopian short story about human emotion
