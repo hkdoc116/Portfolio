@@ -15,7 +15,7 @@ When HIV/AIDS infections and deaths ballooned and became part of the public cons
 Studies of the Persian Empire have to grapple with the state of surviving evidence, which is somewhat lacking in the areas of the empire itself. Much of what is referenced comes from Greek sources, which are biased and tend to look down on Persia. A long-standing claim is that the Persian Court was nomadic because it changed location with the seasons. Further analysis, however, reveals that the court was more likely itinerant, in that it did move often, but not necessarily with the seasons. Other reasons included military needs and asserting control over the vast lands and number of peoples. The court had both permanent residences and tent encampments, showing the bridge between ancestral nomadism and what eventually became settled living. The Achaemenid Persian Court was itinerant, more likely moving strategically than with the seasons.
 
 
-<a href="pdfs/Dissertation-The Garden Wings-Dougherty.pdf" target="_blank">Dissertation: Creative and Analytical Pieces</a>
+<a href="pdfs/Dissertation-The Garden Wings-Dougherty.pdf" target="_blank">Dissertation: _The Garden Wings_</a>
 
 My undergraduate dissertation, composed of the opening to a novel and a companion essay about my process and purpose
 
